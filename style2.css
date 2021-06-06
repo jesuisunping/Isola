@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(245, 218, 63);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: darkslateblue;
+    font-size: 20px;
+    margin: 1cm;
+}
+
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: tomato;
+
+}
+
+h2 {
+    color: crimson;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h4 {
+    color: rgba(38, 165, 38, 0.938);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 22px;
+}
+
+a {
+    color: indianred;
+    font-size: 22px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+table {
+    font-size: 25px;
+}
+
+
+thead th {
+    background-color: rgb(173, 240, 173);
+    color: midnightblue;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    font-size: 25px;
+}
+  
+tr {
+    background-color: rgb(250, 250, 153);
+}
+  
+th, td {
+    font-family:'Courier New', Courier, monospace;
+    padding: 10px;
+    text-align: center;
+    width: 25%;
+    font-size: 22px;
+}
