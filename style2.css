@@ -16,24 +16,26 @@ h1 {
 h2 {
     color: crimson;
     font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
 }
 
 h3 {
     color: rgb(131, 79, 182);
     font-family: 'Courier New', Courier, monospace;
+    font-size: 37px;
 
 }
 
 h4 {
     color: rgba(38, 165, 38, 0.938);
     font-family: 'Courier New', Courier, monospace;
-    font-size: 22px;
+    font-size: 34px;
 }
 
 h5 {
     color: rgb(72, 72, 226);
     font-family: 'Courier New', Courier, monospace;
-    font-size: 20px;
+    font-size: 27px;
 }
 
 a {
