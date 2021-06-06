@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "Protected Site"
-AuthUserFile /user/Documents/Github/Isola/Isola.htpasswd
-require valid-user
