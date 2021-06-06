@@ -8,7 +8,16 @@
 
     <body>
         <h2>Archives</h2>
-        <br>
+        
+        <button onclick="myFunction()">Dark mode</button>
+        <script>
+            function myFunction() {
+                var element = document.body;
+                element.classList.toggle("dark-mode");
+              }
+        </script>
+
+        <br><br>
         <label for="archives">Pour acceder aux archives, merci d'indiquer le mot de passe : (non le mdp marche pas pr l'instant)</label><br>
         <input type="password">
         <input type="submit" value="Submit">

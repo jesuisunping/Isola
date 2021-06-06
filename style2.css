@@ -18,10 +18,22 @@ h2 {
     font-family: 'Courier New', Courier, monospace;
 }
 
+h3 {
+    color: rgb(131, 79, 182);
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
 h4 {
     color: rgba(38, 165, 38, 0.938);
     font-family: 'Courier New', Courier, monospace;
     font-size: 22px;
+}
+
+h5 {
+    color: rgb(72, 72, 226);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
 }
 
 a {
@@ -40,17 +52,28 @@ thead th {
     color: midnightblue;
     text-transform: uppercase;
     letter-spacing: 1.5px;
-    font-size: 25px;
+    font-size: 35px;
 }
   
 tr {
     background-color: rgb(250, 250, 153);
+    font-size: 40px;
 }
   
 th, td {
     font-family:'Courier New', Courier, monospace;
-    padding: 10px;
+    padding: 30px;
     text-align: center;
-    width: 25%;
+    width: 28%;
     font-size: 22px;
+}
+
+ul {
+    line-height: 35px;
+}
+
+
+.dark-mode {
+    background-color: rgb(19, 9, 9);
+    color: whitesmoke;
 }
