@@ -1,0 +1,83 @@
+body {
+    background-color: rgb(17, 14, 43);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: seashell;
+    font-size: 20px;
+    margin: 1cm;
+}
+
+#titre {
+    color: rgb(255, 208, 0);
+    font-size: 100px;
+    letter-spacing: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    text-transform: uppercase;
+    text-align: center;
+
+}
+
+.link {
+    color: rgb(178, 202, 218);
+
+}
+
+#t2 {
+    color: rgb(255, 208, 0);
+    font-size: 45px;
+    letter-spacing: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+
+
+table {
+    font-size: 25px;
+}
+
+thead th {
+    background-color: rgb(8, 2, 15);
+    color: rgb(255, 208, 0);
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+}
+  
+tr {
+    background-color: rgb(48, 38, 51);
+    font-size: 40px;
+}
+  
+th, td {
+    font-family:'Courier New', Courier, monospace;
+    padding: 30px;
+    text-align: center;
+    font-size: 30px;
+}
+
+ul {
+    line-height: 35px;
+}
+
+
+a {
+    color: rgb(178, 202, 218);
+    font-size: 28px;
+    line-height: 42px;
+}
+
+#accueil {
+    font-size: 20px;
+    color: rgb(195, 255, 193);
+    font-size: 20px;
+    margin-left: 10px;
+
+}
+
+#invite {
+    font-size: 5px;
+}
+
+#bbody {
+    font-size: 30px;
+}
