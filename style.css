@@ -4,6 +4,10 @@ body {
     color: seashell;
     font-size: 20px;
     margin: 1cm;
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
 }
 
 #titre {
@@ -34,6 +38,7 @@ body {
 
 table {
     font-size: 25px;
+    width: 100%;
 }
 
 thead th {
@@ -79,5 +84,5 @@ a {
 }
 
 #bbody {
-    font-size: 30px;
+    font-size: 20px;
 }
